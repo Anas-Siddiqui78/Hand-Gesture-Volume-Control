@@ -25,7 +25,8 @@ The **Hand Gesture-Based Volume Control** project enables users to 🎚️ contr
 ## 📥 Installation 📦⚙️
 1. 🧪 Clone this repository:
    ```bash
-   git clone https://github.com/Tejasva-Maurya/Hand-Gesture-Volume-Control.git
+   git clone https://github.com/Anas-Siddiqui78/Hand-Gesture-Volume-Control.git
+
    cd Hand-Gesture-Volume-Control
    ```
 2. 📦 Install the required dependencies:
